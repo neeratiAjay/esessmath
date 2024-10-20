@@ -1,0 +1,153 @@
+.subscribe-bg-container {
+  background-color: #f0ffe5;
+  width: 95%;
+  margin-left: 20px;
+  height: 718px;
+  
+  display: flex;
+  flex-direction: column;
+}
+.flex-row-top-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 0px;
+}
+.row-container-1 {
+  width: 269px;
+  height: 85px;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.subscribe-heading {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  color: #000000;
+}
+.subscribe-description {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #838383;
+}
+.mail-input-container {
+  width: 269px;
+  height: 35px;
+  border: 1px solid #999999;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19.5px;
+  text-align: left;
+  color: #000000;
+  outline: none;
+}
+.subscriber-btn {
+  width: 130px;
+  height: 35px;
+ 
+  border-radius: 30px;
+ 
+  background-color: #247822;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+  margin-top: 10px;
+  outline: none;
+  cursor: pointer;
+}
+.row-container-2 {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+}
+.about-ul-container {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.about-list-item {
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 22.5px;
+  text-align: left;
+  color: #999999;
+  margin-top: 10px;
+}
+.row-container-3 {
+  width: 193px;
+  height: 164px;
+  
+  margin: 0px;
+}
+.last-container {
+  display: flex;
+  flex-direction: column;
+  width: 218px;
+  height: 237px;
+  margin: 0px;
+}
+.chaperone-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+.chaperone-heading {
+  font-family: Poppins, roboto;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 33px;
+  text-align: left;
+  color: #000000;
+}
+.chaperone-description {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #838383;
+  width: 80%;
+}
+.icons-container {
+  display: flex;
+  align-items: center;
+  width: 219.1px;
+  height: 31.04px;
+
+}
+.icon-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #000000;
+}
+.subscribe-line {
+  color: #0000004d;
+  width: 100%;
+  margin-top: 40px;
+}
+.email-text {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  margin: 30px;
+  color: #0000004d;
+}
